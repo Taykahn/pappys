@@ -1,7 +1,4 @@
-
-
 /* Web Fonts -------------------- */
-
 @font-face {
   font-family: 'abolition regular';
     src: url('../fonts/abolition-regular-webfont.eot');
@@ -11,23 +8,19 @@
 }
 
 /* Base Styles -------------------- */
-
 * {
   box-sizing: border-box;
 }
-
 body {
   background-color: #e2e1e1;
   color: #6b767d;
   margin: 0;
   font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
- 
 h1,
 h2 {
   font-family: 'abolition regular', Helvetica, Arial, sans-serif;
 }
-
 /*
 h1 {  
   font-size: 5.625rem; /* 90px/16px
@@ -39,8 +32,6 @@ h1 {
   margin: 12px 0 0;
 }
 */
-
-
 h2 {
   color: black;
   font-size: 3.3125em; /* 53px/16px*/ 
@@ -49,38 +40,30 @@ h2 {
   margin: 0 0 .5em; /* 0 0 26px*/ 
   text-shadow: 3px 6px 8px black;
 }
-
-
 h3 {
   font-size: 1.25em; /* 20px/16px  */
   color: #670d0b;
   line-height: 1.2;
   margin-bottom: 1.7em; /* 34px */
 }
-
 img {
   max-width: 100%;
   margin-bottom: 20px;
   border-radius: 10px;
   box-shadow:  0 15px 20px -12px rgba(0, 0, 0, .8);
 }
-
 nav {
   margin-bottom: 10px;
   padding-bottom: 20px;
   text-shadow: 5px 8px 10px #222;
 }
 
-
-
 /* Pseudo-classes ------------------ */
-
 a {
   color: #dc9734;
   text-decoration: none;
   padding: 10px;
 }
-
 a:hover {
   color: #b9110d;
 }
