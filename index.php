@@ -11,7 +11,7 @@
 
 	<div class="row">
 
-		<div class="content-inner col-md-12">
+		<div class="content-inner col-md-6">
 
 			<h2>Welcome to Pappy's</h2>
 
@@ -23,7 +23,7 @@
 
 		</div><!--.content-inner-->
 
-		<div class="content-inner t-border col-md-12">
+		<div class="content-inner t-border col-md-6">
 
 			<div class="hours">
 
